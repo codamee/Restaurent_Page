@@ -5,7 +5,7 @@ import { about } from "./modules/about/about.js"
 import { menu } from "./modules/menu/menu.js"
 
 const nav = document.querySelector("nav")
-menu()
+contact()
 nav.addEventListener("click", (e) => {
     const elem=e.target
     if (elem.id === "home") {

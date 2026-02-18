@@ -10,9 +10,8 @@
     align-items: center;
     flex-direction: column;
     gap: 50px;
-    padding: 50px;
+    padding: 40px;
     background-image: url("../../assets/rieracanler-grill-8225405.jpg");
-    /* background-color: rgb(0, 255, 89); */
     background-size: contain;
 }
 
@@ -24,9 +23,7 @@
     border-radius: 10px;
     padding: 40px;
     display: flex;
-    /* justify-content: center; */
-    /* align-items: center; */
-    gap: 20px;
+    gap: 25px;
     flex-direction: column;
     color: rgb(198, 198, 198);
 }
@@ -55,6 +52,7 @@
     border-radius: 10px;
     /* padding: 10px; */
     color: rgb(216, 216, 216);
+    cursor: pointer;
 }
 
 .card img {
