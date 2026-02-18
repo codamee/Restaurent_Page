@@ -1,5 +1,6 @@
 import "./home.css"
 import bus from "./naobim-stalls-3452163.png"
+
 function home() {
     const contentDiv = document.querySelector("#content")
     contentDiv.innerHTML = ""

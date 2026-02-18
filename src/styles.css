@@ -65,3 +65,8 @@ nav button:hover {
     font-weight: bolder;
 }
 
+.background{
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
